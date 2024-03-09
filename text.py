@@ -1,4 +1,4 @@
-a=6
+-a=6
 b=5
 print(b*a)
 x="air"
