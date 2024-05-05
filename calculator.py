@@ -62,6 +62,8 @@ else:
     
 c = (input("do you want to continue? (Y/N): "))
 
+c = (input("do you want to continue? (Y/N): "))
+
 while(c == 'y' or c=='Y'):
     Authentication()
     DisplayMenu()
